@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Deokcoding
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning React, NodeJs, Express
+- 🌱 I’m currently learning React, NodeJs, Express, Python
 - 📫 How to reach me dlejrgus95@naver.com
